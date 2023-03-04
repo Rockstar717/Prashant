@@ -14,7 +14,9 @@ public class Integere {
 			System.out.println(i);
 		}*/
 		
-// How to get using input using Scanner Class
+        // How to get using input using Scanner Class
+		// How to get using input using Scanner Class
+		// How to get using input using Scanner Class
 		/*int a;
 		float b;
 		String s;
